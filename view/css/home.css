@@ -1,0 +1,22 @@
+#boxcontent--dm{
+    list-style-type: none;
+    text-align: center;
+    padding: 5px;
+}
+#boxcontent--dm a{
+    text-decoration: none;
+    color: #333;
+    text-align: center;
+}
+
+.boxcontent li{
+    list-style-type: none;
+}
+
+.boxcontent a{
+    text-decoration: none;
+}
+
+.btn-login{
+    background-color: #001838;
+}
